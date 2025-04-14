@@ -5,34 +5,34 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerdilshad&label=Profile%20views&color=0e75b6&style=flat" alt="developerdilshad" /> </p>
 
-- 🔭 I'm currently working on **iOS applications using Swift and SwiftUI**
-- 🌱 I'm currently learning **iOS App Architecture and ARKit**
-- 💬 Ask me about **Swift, SwiftUI, UIKit, Xcode**
-- 📱 Passionate about creating beautiful & intuitive mobile experiences
-- ⚡ Fun fact **I am Funny and love solving complex UI challenges**
+- 🔭 I'm currently working on **innovative iOS applications using Swift and SwiftUI**
+- 🌱 I'm currently exploring **Advanced iOS Architectures and Performance Optimization**
+- 💬 Ask me about **Swift, SwiftUI, UIKit, iOS Application Architecture**
+- 📱 Specializing in creating beautiful, intuitive, and scalable mobile experiences
+- ⚡ Fun fact **I love solving complex UI/UX challenges and implementing clean architecture**
 
-## 📱 iOS Development Journey
+## 📱 Professional Summary
 
 ```swift
-struct Developer {
+struct iOSDeveloper {
     let name = "Dilshad P"
-    let role = "iOS Developer"
-    let languages = ["Swift", "Objective-C", "Dart"]
-    let frameworks = ["UIKit", "SwiftUI", "CoreData", "CoreAnimation"]
+    let specialization = "Mobile Application Development"
+    let expertise = ["Swift", "SwiftUI", "UIKit", "Core Data", "MVVM", "Clean Architecture"]
+    let interests = ["UI/UX Design", "Performance Optimization", "App Store Excellence"]
     
-    func sayHello() {
-        print("Thanks for visiting my profile! Let's build something amazing together.")
+    func mission() -> String {
+        return "Creating high-quality iOS applications that deliver exceptional user experiences"
     }
 }
 ```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/YourLinkedInProfile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/YourTwitterHandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dilshad-p-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshad-p-" height="30" width="40" /></a>
+<a href="https://github.com/DeveloperDilshad/Recipe-App.git" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="portfolio" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technical Expertise:</h3>
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="xcode" width="40" height="40"/> </a>
@@ -44,42 +44,81 @@ struct Developer {
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 </p>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developerdilshad&show_icons=true&locale=en&layout=compact&theme=dark" alt="developerdilshad" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerdilshad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerdilshad&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developerdilshad&show_icons=true&locale=en&theme=dark" alt="developerdilshad" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerdilshad&theme=tokyonight" alt="developerdilshad" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerdilshad&theme=dark" alt="developerdilshad" /></p>
-
-## 📱 iOS Project Showcase
+## 📱 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Example iOS App</h3>
+      <h3 align="center">Resto</h3>
       <p align="center">
-        <a href="https://github.com/developerdilshad/example-app" target="_blank">
-          <img src="/api/placeholder/300/180" alt="Example iOS App"/>
+        <a href="https://github.com/DeveloperDilshad/Resto.git" target="_blank">
+          <img src="/api/placeholder/300/180" alt="Resto App"/>
         </a>
         <p align="center">
-          A beautiful iOS app built with SwiftUI and Core Data
+          A sophisticated restaurant management iOS app built with Swift and modern architecture
         </p>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Another iOS App</h3>
+      <h3 align="center">Envitus</h3>
       <p align="center">
-        <a href="https://github.com/developerdilshad/another-app" target="_blank">
-          <img src="/api/placeholder/300/180" alt="Another iOS App"/>
+        <a href="https://github.com/DeveloperDilshad/Envitus.git" target="_blank">
+          <img src="/api/placeholder/300/180" alt="Envitus App"/>
         </a>
         <p align="center">
-          Feature-rich app with UIKit and ARKit integration
+          An innovative environmental monitoring application with elegant user interface
+        </p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Note Space</h3>
+      <p align="center">
+        <a href="https://github.com/DeveloperDilshad/Note-Space.git" target="_blank">
+          <img src="/api/placeholder/300/180" alt="Note Space App"/>
+        </a>
+        <p align="center">
+          A minimal and powerful note-taking app with cloud synchronization
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Recipe App</h3>
+      <p align="center">
+        <a href="https://github.com/DeveloperDilshad/Recipe-App.git" target="_blank">
+          <img src="/api/placeholder/300/180" alt="Recipe App"/>
+        </a>
+        <p align="center">
+          A beautiful culinary companion app built with SwiftUI and Core Data
         </p>
       </p>
     </td>
   </tr>
 </table>
+
+## 💻 Development Philosophy
+
+> "I believe in creating applications that not only solve problems but also provide delightful experiences. Clean code, thoughtful architecture, and attention to detail are the foundations of every project I undertake."
+
+## 🔥 Professional Skills
+
+- **UI Development**: Crafting pixel-perfect interfaces with UIKit and SwiftUI
+- **Architecture**: Implementing MVVM, Clean Architecture, and Redux patterns
+- **Performance**: Optimizing for smooth animations and responsiveness
+- **Testing**: Comprehensive unit and UI testing strategies
+- **Deployment**: CI/CD expertise with automated build and release processes
 
 ---
 
